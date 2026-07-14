@@ -20,7 +20,9 @@ Android, iOS, WebGL
 
 ## Скриншоты
 
-*(добавь 2-3 скриншота игры)*
+![Скриншот 1](Screenshots/screenshot1.png)
+![Скриншот 2](Screenshots/screenshot2.png)
+![Скриншот 3](Screenshots/screenshot3.png)
 
 ## Статус
 
