@@ -26,7 +26,7 @@ Android, iOS, WebGL
 
 ## Геймплей
 
-![Геймплей](Screenshots/gameplay.gif)
+![Геймплей](Screenshots/gameplay.gif?raw=true)
 
 ## Статус
 
