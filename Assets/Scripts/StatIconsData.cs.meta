@@ -1,0 +1,40 @@
+fileFormatVersion: 2
+guid: 6ec36ada14ded8a45a6da20d6ba61b8c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - damageIcon: {fileID: -8086850440826228858, guid: 9f8e012e7f2f18149abeb9de14d6a07a, type: 3}
+  - attackSpeedIcon: {fileID: -3085972332808833774, guid: ba7d548a4b2841f42a8b8bd60c8a0f6c, type: 3}
+  - critChanceIcon: {fileID: 1258408747603139012, guid: 6e6354321aa398e4e8925c69b3731e9f, type: 3}
+  - critDamageIcon: {fileID: 6458419126713967574, guid: 7d3d1aa8d23bbbd4c9a85d7073cb329d, type: 3}
+  - dodgeIcon: {fileID: 4112071966115300312, guid: 177c75a3344feff4681ee5539a988b69, type: 3}
+  - vampirismIcon: {fileID: 8482105283373649615, guid: dfbbd249d705dfe45a83eb37815a4bea, type: 3}
+  - poisonIcon: {fileID: 1969918237916786025, guid: aadc8e87151ec694f86c1b1fd59a4587, type: 3}
+  - burnIcon: {fileID: -5663974789534609588, guid: 85a27a818a803d543be9db85f9d85c89, type: 3}
+  - slowIcon: {fileID: 7422938508589498869, guid: 8f68355d3df253c4a8b6c87a0ca6c9b7, type: 3}
+  - stunIcon: {fileID: 5404633747034473702, guid: 75b051b943fb4464e8121f03c663e1cb, type: 3}
+  - thornsIcon: {fileID: 108732844490314072, guid: b760c6a04b502a843a5f8d065a70976e, type: 3}
+  - bleedIcon: {fileID: -5699330949777992393, guid: 9d1d4692a9600834a95594cf134a517b, type: 3}
+  - guillotineIcon: {fileID: -2876655573113898211, guid: d376a122255b9cf419fa542890496da8, type: 3}
+  - extraProjectileIcon: {fileID: 8481776216264136979, guid: 2a7810def427b2a459c56078c4a0ab82, type: 3}
+  - healthIcon: {fileID: -6462378999320361261, guid: e95bf0d0b25bb5f4ca14a94050656eda, type: 3}
+  - armorIcon: {fileID: -6653661403160157235, guid: 4c1995eac99744e4f9cdb5c10daf95e3, type: 3}
+  - hpRegenIcon: {fileID: 7973363004807453553, guid: af9a6a064a7d0274f9320a2a4466e94f, type: 3}
+  - armorRegenIcon: {fileID: -887600809683363677, guid: f651def787834f943a53a44307834a4b, type: 3}
+  - blockChanceIcon: {fileID: -807321957890074282, guid: 16d8a4d1aaeb22549a82177a06b5c6f1, type: 3}
+  - poisonResistIcon: {fileID: -6600273388364487924, guid: d28d1010f31f7e44eb179a600f9ff3e2, type: 3}
+  - fireResistIcon: {fileID: -4025932459924675989, guid: 154023636c333df40909d7b29d0d161c, type: 3}
+  - damageReductionIcon: {fileID: 4638076956618140135, guid: 69e83ddcf90f5c5418220d932a597baa, type: 3}
+  - invulnerabilityIcon: {fileID: 6652017778784893071, guid: c8dedc7067b3764459aa5f8e1c78f1fb, type: 3}
+  - coinsPerLevelIcon: {fileID: 7105747937092262179, guid: 6b95c99a15a590c43a799c6977d61682, type: 3}
+  - coinsPerKillIcon: {fileID: 280357877529126182, guid: 0eaee380cf3e83a498e00177bedc7390, type: 3}
+  - shopDiscountIcon: {fileID: 7612706137574277898, guid: c66dc285d711de545a9f9e5dde70065c, type: 3}
+  - freeRerollIcon: {fileID: 2275901178806729273, guid: 52bd00b794b76e14b9d372522e323126, type: 3}
+  - extraCardIcon: {fileID: 4171254493671065207, guid: cdfa48d27d49e2145892f438912e55dd, type: 3}
+  - fullPriceIcon: {fileID: 2240698461891668650, guid: 5eaaf0b2ee9feee41b49203a5ceb9f3f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
