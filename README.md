@@ -24,6 +24,10 @@ Android, iOS, WebGL
 ![Скриншот 2](Screenshots/screenshot2.png)
 ![Скриншот 3](Screenshots/screenshot3.png)
 
+## Геймплей
+
+![Геймплей](Screenshots/gameplay.gif)
+
 ## Статус
 
 <<<<<<< Updated upstream
