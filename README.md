@@ -4,7 +4,7 @@
 
 ## Скачать
 
-[Скачать APK](Build/Puzzle Pack.apk)
+[Скачать APK](Build/Puzzle%20Pack.apk)
 
 ## Геймплей
 
