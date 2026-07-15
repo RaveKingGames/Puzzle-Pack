@@ -26,7 +26,7 @@ Android, iOS, WebGL
 
 ## Геймплей
 
-![Геймплей](https://raw.githubusercontent.com/RaveKingGames/Puzzle-Pack/main/Screenshots/gameplay.gif)
+![Геймплей](Screenshots/gameplay.mp4)
 
 ## Статус
 
